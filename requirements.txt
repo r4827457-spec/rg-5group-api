@@ -1,3 +1,5 @@
+Flask
+Flask-Cors
 requests
 aiohttp
 pycryptodome
@@ -8,3 +10,4 @@ protobuf-decoder
 psutil
 pytz
 cfonts
+gunicorn
